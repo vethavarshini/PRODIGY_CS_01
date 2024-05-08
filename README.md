@@ -4,13 +4,13 @@ This is a Python GUI application built with Tkinter that allows users to encrypt
 
 Features
 
-Encryption: Enter text and specify a shift value to encrypt it using the Caesar cipher.
+* Encryption: Enter text and specify a shift value to encrypt it using the Caesar cipher.
 
-Decryption: Enter encrypted text and specify the same shift value to decrypt it.
+* Decryption: Enter encrypted text and specify the same shift value to decrypt it.
 
-Interactive Interface: User-friendly interface with buttons for encryption and decryption.
+* Interactive Interface: User-friendly interface with buttons for encryption and decryption.
 
-Information Display: Hover over the encryption and decryption buttons to display information about the process.
+* Information Display: Hover over the encryption and decryption buttons to display information about the process.
 
 How to Use
 
