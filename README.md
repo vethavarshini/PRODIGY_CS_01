@@ -15,10 +15,16 @@ Information Display: Hover over the encryption and decryption buttons to display
 How to Use
 
 1)Clone the repository to your local machine.
+
 2)Make sure you have Python installed.
+
 3)Run the caesar_cipher_gui.py file.
+
 4)Enter the text you want to encrypt/decrypt in the text entry field.
+
 5)Specify the shift value.
+
 6)Click the "Encrypt" or "Decrypt" button to perform the respective action.
+
 7)The result will be displayed in a pop-up window.
 
